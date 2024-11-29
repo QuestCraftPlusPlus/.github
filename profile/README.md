@@ -8,5 +8,3 @@ For any business, partnership, or legal inquiry's, please email us at contact@qu
 * [Pojlib](https://github.com/QuestCraftPlusPlus/Pojlib) | Backend library for QCXR applications.
 
 * [QCXR-Wrapper](https://github.com/QuestCraftPlusPlus/QCXR-XR-Wrapper) | OpenXR Wrapper for QCXR Applications, also known as the launcher environment.
-
-* [VivecraftMod](https://github.com/QuestCraftPlusPlus/VivecraftMod) | Custom Vivecraft fork made for QCXR applications.
